@@ -64,7 +64,7 @@
     "@types/node": "^18.0.0",
     "base64-sol": "1.1.0",
     "chai": "4.3.6",
-    "chalk": "5.0.0",
+    "chalk": "5.2.0",
     "debug": "4.3.3",
     "dotenv": "^16.0.1",
     "eslint-plugin-prettier": "^4.2.1",
